@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatDachert
-- 👀 I’m interested in Social Sciences and Data Science
-- 🌱 I’m currently learning Economics at SciencesPo Paris
-- 💞️ I’m looking to collaborate on any interesting project
+- 👀 I’m interested in Industrial Organizations and Health economics
+- 🌱 I just graduated from the masters in economics of SciencesPo 
 - 📫 You can reach me at mathias.dachert@sciencespo.fr
 
 <!---
